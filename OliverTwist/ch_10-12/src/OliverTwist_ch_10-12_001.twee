@@ -1,0 +1,188 @@
+:: StoryTitle
+OLIVER TWIST Ch 10-12 ver 0001 CURRENT3
+
+
+:: StoryData
+{
+  "ifid": "f41aea15-e40c-4273-bf9e-13edd0727ff3",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "Untitled Passage",
+  "zoom": 1
+}
+
+
+:: Untitled Passage {"position":"700,275","size":"100,100"}
+Welcome! You have already read Chapters 10-12. Now, you will play a digital text game to see if you really understand the story. 
+
+You will make choices. Choose carefully! If you make a bad choice, you will get a "Game Over" and must try again.
+
+Click below to choose your first character:
+
+[[Play as MONKS (The Evil Brother)|Monks Start]]
+[[Play as NANCY (The Helper with a Secret)|Nancy Start]]
+
+
+:: Monks Start {"position":"637.5,400","size":"100,100"}
+<img src="https://static.wikia.nocookie.net/villains/images/9/97/MonksOTillustration.png" width="220" style="display:block; margin:0 auto; border-radius:8px;">
+
+--- SCENE 1: MONKS (Chapter 10) ---
+You are Monks. You are a tall, strange man wearing a large black cloak. On your throat, you have a red mark, like a burn. You hate the orphan boy, Oliver Twist. 
+
+You are inside a dark, old building next to the river. Mrs. Bumble is standing in front of you. She demands 25 pounds in gold! If you pay her, she will give you a small bag. Inside the bag is a gold necklace that says 'Agnes' on it. This belonged to Oliver's mother.
+
+You pay the money. Then, you immediately drop the necklace down a trapdoor into the fast-moving river water!
+
+Why did you throw the necklace into the water?
+
+[[To destroy the necklace so no one can ever prove who Oliver's mother was|Monks Correct]]
+[[To hide the gold in the river mud so he can send Fagin to dig it up and sell it later|Monks Wrong 1]]
+[[To throw away stolen gold because he thinks the police followed him to the old building by the river|Monks Wrong 2]]
+
+
+:: Monks Correct {"position":"512.5,525","size":"100,100"}
+CORRECT!
+Monks wants to destroy the only proof that links Oliver to his mother, Agnes. By dropping the necklace into the deep, fast river water, no one can ever find it again.
+
+The necklace is gone forever. You tell the Bumbles: "You must never tell anyone you have met me." You think you are safe.
+
+But someone was watching you from the dark shadows. A woman wearing a shawl and a hat saw everything. It was Nancy!
+
+[[Switch to ACT 2: NANCY|Nancy Start]]
+
+
+:: Monks Wrong 1 {"position":"637.5,525","size":"100,100"}
+GAME OVER!
+This is not what happened in the book!
+Monks did not want to sell the necklace. In Chapter 10, Monks gives Mrs. Bumble twenty-five pounds in gold just to get this small necklace. He is rich and does not need money. In the story, Monks opens a door in the floor and drops the necklace into the deep river water. He wants to destroy the necklace so no one can ever find it. He wants to hide the truth about Oliver's mother forever.
+
+[[Read Chapter 10 again and try your choice again!|Monks Start]]
+
+
+:: Monks Wrong 2 {"position":"762.5,525","size":"100,100"}
+GAME OVER!
+This is not what happened in the book!
+The police were not following Monks, and he was not hiding from them. Monks met Mr. and Mrs. Bumble in secret in an old building next to the river to buy the necklace for twenty-five pounds in gold. He threw the necklace into the deep, fast river water because running water carries things away forever. His only goal was to destroy the proof that connects Oliver to his mother.
+
+[[Read Chapter 10 again and try your choice again!|Monks Start]]
+
+
+:: Nancy Start {"position":"762.5,400","size":"100,100"}
+<img src="https://www.shutterstock.com/editorial/image-editorial/M6T5A80dM4z7If16NTI2Mw==/picture-shows---emily-woof-nancy-440nw-1037059dm.jpg" width="250" style="display:block; margin:0 auto; border-radius:8px;">
+
+--- SCENE 2: NANCY (Chapter 11) ---
+You are Nancy. You just ran downstairs after listening outside the door. You heard Monks say something terrible: "Oliver is my brother! Fagin, trick him so the police catch him and he hangs for a crime!"
+
+You feel terrible. You are the one who dragged Oliver back to Fagin's den. Now you want to save him. 
+
+You are back at home. Your boyfriend, the dangerous robber Bill Sikes, is sick and demands a drink. You want to escape to a hotel in the West End to warn Miss Rose Maylie. 
+
+What do you do?
+
+[[Pour laudanum (sleeping medicine) into Bill's drink while his back is turned|Nancy Correct]]
+[[Tell Bill you are running down to the shop to buy medicine for his fever|Nancy Wrong 1A]]
+[[Wait quietly by his bedside until he falls asleep naturally|Nancy Wrong 1B]]
+
+
+:: Nancy Correct {"position":"825,650","size":"100,100"}
+CORRECT!
+Nancy secretly puts laudanum into Bill's drink. When Bill falls into a deep sleep, she quickly puts on her hat and shawl and runs to the hotel to see Rose Maylie.
+
+You meet Miss Rose Maylie. You tell her the truth: Monks is Oliver's brother, and he threw the gold necklace into the river! 
+
+Rose begs you to stay where it is safe. But you refuse. You tell her you love Bill Sikes and cannot leave him. Before you go, you must choose a secret place to meet Rose next week. Where do you tell her to meet you?
+
+[[On London Bridge every Sunday night between 11 and 12 o'clock|Nancy True Win]]
+[[Outside the Black Dog pub in London|Nancy Wrong 2A]]
+[[Inside Mr. Brownlow's private house in Pentonville|Nancy Wrong 2B]]
+
+
+:: Nancy Wrong 1A {"position":"700,650","size":"100,100"}
+GAME OVER!
+This is not what happened in the book!
+If Nancy had asked Bill Sikes to leave, he would not let her go! Bill Sikes is very suspicious when he is sick. Later in Chapter 12, when Nancy tries to go out, Sikes grabs her, locks the door, and holds her down in a chair. In Chapter 11, Nancy knows Sikes will stop her. So, she secretly puts laudanum (a sleeping medicine) into Bill's drink when he is not looking. When he falls fast asleep, she sneaks out into the night.
+
+[[Read Chapter 11 again and try your choice again!|Nancy Start]]
+
+
+:: Nancy Wrong 1B {"position":"700,775","size":"100,100"}
+GAME OVER!
+This is not what happened in the book!
+If Nancy had waited for Bill Sikes to fall asleep naturally, it would take too long! Bill is sick and keeps waking up to ask for drinks. In the story, Nancy must reach the hotel by 11 o'clock to see Miss Rose Maylie. She cannot wait all night. That is why she gives him laudanum (a sleeping medicine) to make him fall asleep quickly.
+
+[[Read Chapter 11 again and try your choice again!|Nancy Start]]
+
+
+:: Nancy Wrong 2A {"position":"762.5,775","size":"100,100"}
+GAME OVER!
+This is not what happened in the book!
+If Nancy had told Rose Maylie to meet at the Black Dog pub, Fagin's gang would see them! The Black Dog pub is where Fagin and Sikes meet. Rose Maylie is a rich lady, and Fagin's friends would spot her immediately. In the story, Nancy tells Rose to meet her on London Bridge every Sunday night between 11 and 12 o'clock because it is dark and quiet there.
+
+[[Try your choice again|Nancy Correct]]
+
+
+:: Nancy Wrong 2B {"position":"762.5,900","size":"100,100"}
+GAME OVER!
+This is not what happened in the book!
+If Nancy had agreed to go to a rich house, she would be too afraid! Nancy feels very ashamed of her life as a thief. Also, walking around a rich street at night in her poor clothes is dangerous because the police might stop her. In the story, Nancy chooses London Bridge because she can hide in the dark shadows and leave quickly.
+
+[[Try your choice again|Nancy Correct]]
+
+
+:: Nancy True Win {"position":"887.5,775","size":"100,100"}
+CORRECT!
+You promise to walk on London Bridge every Sunday night from 11 o'clock until midnight. 
+
+Because of your warning, Rose Maylie tells Mr. Brownlow everything. They find Oliver, take him back to Mr. Brownlow's house, and dress him like a gentleman again. Oliver is safe for now!
+
+But a new shadow has just arrived in London. A tall young man with long legs like sticks...
+
+[[Switch to SCENE 3: NOAH CLAYPOLE|Noah Start]]
+
+
+:: Noah Start {"position":"887.5,900","size":"100,100"}
+<img src="https://teamdickens.wordpress.com/wp-content/uploads/2012/12/noah-claypole.jpg" width="250" style="display:block; margin:0 auto; border-radius:8px;">
+
+--- SCENE 3: NOAH CLAYPOLE (Chapter 12) ---
+You are Noah Claypole. You just arrived in London on foot after a very long walk. You stole a 20-pound note from your master, Mr. Sowerberry the undertaker! 
+
+You are sitting inside a pub called 'The Black Dog' eating beer and cold meat. You want to live like a gentleman now. Your companion asks you: "When the twenty pounds you stole is gone, what then?"
+
+You loudly reply: "There are pockets we can empty and women's purses to steal!" 
+
+Suddenly, an old man in the corner who was secretly listening to you stands up, bows, and walks over. It is Fagin! He knows your secret. What do you do?
+
+[[Listen to Fagin, give him the £20 you stole and agree to visit his house tomorrow morning at ten o'clock|Noah Correct]]
+[[Stand up, pull out a knife, and threaten Fagin|Noah Wrong 1]]
+[[Offer Fagin £5 of £20 from your stolen money to keep his mouth shut|Noah Wrong 2]]
+
+
+:: Noah Correct {"position":"825,1025","size":"100,100"}
+CORRECT!
+Noah realizes Fagin knows his secret. He agrees to visit Fagin's house at 10 o'clock the next morning to join Fagin's gang and learn how to steal in London.
+
+Fagin tells you that the 20-pound note you stole is completely useless to you because the bank will know it is stolen. 
+
+Fagin offers you a deal: "Come to my house tomorrow morning at ten. I can help you live like a gentleman." Because the Artful Dodger was recently arrested, Fagin gives you his place in the gang!
+
+Your first job is dangerous. Fagin gives you 1 pound and tells you: "Follow a woman named Nancy. Tell me where she goes and who she sees."
+
+You have successfully completed the mystery! Fagin's trap is set, and Nancy is in big danger...
+
+--- YOU WIN! ALL SCENES COMPLETE ---
+
+
+:: Noah Wrong 1 {"position":"950,1025","size":"100,100"}
+GAME OVER!
+This is not what happened in the book!
+If Noah Claypole had pulled out a knife, Fagin would not be scared! Noah is a coward who only bullies small children like Oliver. Fagin is a clever gang leader in London. If Noah threatens Fagin, Fagin's friends or the police will catch Noah. In the story, Noah turns pale with fear when Fagin speaks to him, and Noah quickly listens to Fagin's advice.
+
+[[Read Chapter 12 again and try your choice again!|Noah Start]]
+
+
+:: Noah Wrong 2 {"position":"950,1150","size":"100,100"}
+GAME OVER!
+This is not what happened in the book!
+If Noah had tried to give stolen money to Fagin, Fagin would laugh at him! In Chapter 12, Fagin tells Noah that a stolen £20 bank note from the countryside is useless in London. The bank will stop the paper money, and the police will arrest anyone who tries to use it. Noah cannot spend it without Fagin's help. That is why Noah agrees to go to Fagin's house at ten o'clock to join Fagin's gang.
+
+[[Read Chapter 12 again and try your choice again!|Noah Start]]
